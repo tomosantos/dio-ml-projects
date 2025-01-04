@@ -6,4 +6,4 @@ This repository contains the projects developed during DIO's Machine Learning Bo
 3. Deep **Convolutional Neural Network** Architecture;
 4. **Model Performance Metrics:** Accuracy, Precision, Recall, Specificity, and F Score;
 5. License Plate Recognition Using Transfer Learning with the **YOLOv4 Model**;
-6. Face-Detection with The Big Bang Theory characters - [Link] (https://github.com/tomosantos/face-detection)
+6. Face-Detection with The Big Bang Theory characters - [Link](https://github.com/tomosantos/face-detection)
